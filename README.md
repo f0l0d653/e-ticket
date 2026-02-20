@@ -14,7 +14,7 @@ Aplicação web para simulação de venda de ingressos, desenvolvida com o objet
 # Tecnologias usadas
 - <kbd> HTML5 </kbd>
 - <kbd> CSS3 </kbd>
-- <kbd> JavaScrip </kbd>
+- <kbd> JavaScript </kbd>
 
 # Autor
 
